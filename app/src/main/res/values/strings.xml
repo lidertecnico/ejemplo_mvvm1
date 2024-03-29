@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ejemplo mvvm1</string>
+    <string name="nombre_hint">Nombre</string>
+    <string name="edad_hint">Edad</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="agregar_button_text">Agregar</string>
+</resources>
